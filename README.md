@@ -31,6 +31,6 @@ All our Wiki's content is freely available for you to use. We've made an effort 
 
 ## Contact Us
 
-If you need help or have questions, feel free to open an issue and we'll get to it as soon as possible. Alternatively, you can reach out to us via our [Contact page](http://pixelworld.com/contact-us).
+If you need help or have questions, feel free to open an issue and we'll get to it as soon as possible. Alternatively, you can reach out to us via our [Contact page](https://pixelworld.gg/).
 
 Thank you for your interest in our Wiki and we look forward to your contributions!
