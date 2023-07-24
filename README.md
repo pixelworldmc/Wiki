@@ -1,36 +1,31 @@
-![Logo](https://cdn.discordapp.com/attachments/1130166478692425901/1130331540589662228/pixel_world-011.png)
+---
+cover: >-
+  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
 
-# Welcome to our Wiki!
+# 👋 Welcome!
 
-This is a place for knowledge, collaboration, and sharing. Here, you can add new content, revise existing content, and work together to make this Wiki the best it can be.
+{% hint style="info" %}
+**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+{% endhint %}
 
-## Contributing to the Wiki
+For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 
-We welcome contributions from everyone! Whether you want to add new information, improve existing content, or even fix a typo, every bit of help is appreciated.
+For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
 
-### How to contribute?
+<details>
 
-1. **Fork** this repository to your own GitHub account.
-2. Make your desired changes in your fork.
-3. Submit a **pull request** to propose your changes.
-4. After a review, your changes will be merged into the main repository.
+<summary>How to use it?</summary>
 
-Here are a few things to keep in mind when contributing:
+This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
 
-- Ensure your content is accurate and up-to-date.
-- Be respectful and considerate in your revisions.
-- Use clear and concise language.
+</details>
 
-### Rewards for Contributions
+<details>
 
-In appreciation of your efforts, for every accepted pull request, you will receive a reward in the game! To redeem your rewards, please connect your game account with GitHub by typing `/link github` in the game.
+<summary>Contributing</summary>
 
-## Using the Wiki
+If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
-All our Wiki's content is freely available for you to use. We've made an effort to ensure it's easy to navigate and understand. If you have any suggestions on how we can improve the user experience, please let us know!
-
-## Contact Us
-
-If you need help or have questions, feel free to open an issue and we'll get to it as soon as possible. Alternatively, you can reach out to us via our [Contact page](https://pixelworld.gg/).
-
-Thank you for your interest in our Wiki and we look forward to your contributions!
+</details>
